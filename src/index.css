@@ -180,3 +180,9 @@ a {
 .contact-icon .items .icons {
   font-size: 2rem;
 }
+
+.copyright {
+  color: #94969f;
+  text-align: end;
+  padding: 15px;
+}
