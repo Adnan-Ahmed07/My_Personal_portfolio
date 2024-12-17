@@ -3,9 +3,9 @@
   {
     "key": 1,
     "title": "Adnan's Shoping House",
-    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
+    "imageSrc": "/assets/projectpic/Screenshot_173.png",
     "description": "This is a project made with complete React js.",
-    "demo": "https://adnanshouse-ddea4.web.app/",
+    "demo": "/assets/",
     "source": "https://github.com/Adnan-Ahmed07/Adnan-s"
   }
 ]
