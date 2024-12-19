@@ -8,9 +8,11 @@ const Home = () => {
   useEffect(() => {
     const options = {
       strings: [
-        "Welcome to my profile",
+        "I'm a Front-end web developer",
         "My Name is Esteak Ahmed Adnan",
-        "I'm a Front-end web development",
+        "Welcome to my profile",
+        
+        
         
       ],
       typeSpeed: 50,

@@ -4,8 +4,16 @@
     "key": 1,
     "title": "Adnan's Shoping House",
     "imageSrc": "/assets/projectpic/Screenshot_173.png",
-    "description": "This is a project made with complete React js.",
+    "description": "This is a project made with complete Html,Css and js.",
     "demo": "https://adnanshouse-ddea4.web.app/",
     "source": "https://github.com/Adnan-Ahmed07/Adnan-s"
+  },
+  {
+    "key": 2,
+    "title": "Adnan's Shoping House version React",
+    "imageSrc": "/assets/projectpic/Screenshot_173.png",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://a-h-shoping-housing-version-3.vercel.app/",
+    "source": "https://github.com/Adnan-Ahmed07/A-H-Shoping-housing-version-3"
   }
 ]
